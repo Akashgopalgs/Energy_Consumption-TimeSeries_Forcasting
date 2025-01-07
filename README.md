@@ -1,2 +1,2 @@
 # Hourly Energy Consumption
-## Time Series Forcasting using LSTM and RNN
+## Time Series Forcasting using LSTM and RNN 
