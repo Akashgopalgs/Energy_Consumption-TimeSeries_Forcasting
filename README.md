@@ -1,5 +1,5 @@
 # Hourly and Daily Energy Consumption - Time Series Forecasting using LSTM and RNN
-
+ 
 ## Project Description
 This project focuses on forecasting hourly and daily energy consumption using advanced deep learning models, specifically Long Short-Term Memory (LSTM) networks and Recurrent Neural Networks (RNN). Time series forecasting plays a critical role in energy management, enabling better planning, optimization, and demand management.
 
